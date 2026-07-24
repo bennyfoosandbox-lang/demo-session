@@ -2,10 +2,42 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-23
-run_count: 1
-digest_count: 1
+last_run: 2026-07-24
+run_count: 2
+digest_count: 2
 entries:
+  - fingerprint: nus-us-news-cs-ranking-drop-2027
+    title: "NUS slips to 6th in US News computer science rankings — but climbs four spots overall"
+    first_seen: 2026-07-24
+    digest: sentiment-on-nus-2026-Jul-24.html
+    urls:
+      - https://e.vnexpress.net/news/tech/tech-news/world-s-second-richest-country-is-southeast-asia-s-only-nation-with-2-global-top-10-computer-science-universities-5100335.html
+      - https://www.usnews.com/education/best-global-universities/computer-science
+  - fingerprint: nus-bridge-network-health-data-2026
+    title: "NUS School of Public Health launches regional BRIDGE network with WHO partners across six Southeast Asian nations"
+    first_seen: 2026-07-24
+    digest: sentiment-on-nus-2026-Jul-24.html
+    urls:
+      - https://sph.nus.edu.sg/news/bridge-network-data-capacity-and-systems-working-group-for-regional-health-data-capacity/
+  - fingerprint: nus-ai-materials-science-qianxiao-li-2026
+    title: "NUS mathematicians unveil AI method that predicts material behaviour from microscopic data"
+    first_seen: 2026-07-24
+    digest: sentiment-on-nus-2026-Jul-24.html
+    urls:
+      - https://www.science.nus.edu.sg/blog/2026/07/ai-methods-to-discover-hidden-rules-governing-material-behaviour/
+      - https://techxplore.com/news/2026-07-ai-hidden-material-microscopic-large.html
+  - fingerprint: nus-medicine-undergrad-research-awards-2026
+    title: "NUS Medicine undergraduates take top research prizes for liver-disease and eye-inflammation studies"
+    first_seen: 2026-07-24
+    digest: sentiment-on-nus-2026-Jul-24.html
+    urls:
+      - https://medicine.nus.edu.sg/news/nus-medicine-students-honoured-with-top-undergraduate-research-awards-for-advancing-patient-centred-medical-research/
+  - fingerprint: nus-law-wongpartnership-visiting-professorship-2026
+    title: "WongPartnership endows S$1 million gift, launches Alvin Yeo Visiting Professorship at NUS Law"
+    first_seen: 2026-07-24
+    digest: sentiment-on-nus-2026-Jul-24.html
+    urls:
+      - https://www.wongpartnership.com/news/detail/launch-of-the-alvin-yeo-wongpartnership-visiting-professorship-with-the-national-university-of-singapore
   - fingerprint: faishal-ibrahim-resignation-nus-professor
     title: "NUS Associate Professor's resignation from Cabinet roils national political sentiment"
     first_seen: 2026-07-23
@@ -44,6 +76,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-24
+- **NUS slips to 6th in US News computer science rankings — but climbs four spots overall** — CS subject ranking fell from 2nd to 6th while NUS's overall US News rank rose from 20th to 16th; NTU held 4th in CS. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-24.html)
+- **NUS School of Public Health launches regional BRIDGE network with WHO partners across six Southeast Asian nations** — new Data Capacity and Systems' Working Group convened representatives from Cambodia, Indonesia, Laos, Singapore, Thailand and the Philippines plus WHO partners. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-24.html)
+- **NUS mathematicians unveil AI method that predicts material behaviour from microscopic data** — Assoc Prof Qianxiao Li's team published in Physical Review Materials and at ICML 2026. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-24.html)
+- **NUS Medicine undergraduates take top research prizes for liver-disease and eye-inflammation studies** — 2026 Undergraduate Research Opportunities Programme winners announced, both projects already published internationally. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-24.html)
+- **WongPartnership endows S$1 million gift, launches Alvin Yeo Visiting Professorship at NUS Law** — new annual visiting professorship in commercial law and dispute resolution starting 2026/2027. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-24.html)
 
 ## 2026-Jul-23 (baseline run)
 - **NUS Associate Professor's resignation from Cabinet roils national political sentiment** — Assoc Prof Muhammad Faishal Ibrahim (NUS Business School, Real Estate) resigned from all political office on 20 Jul 2026 after admitting his conduct toward a woman "fell short" of expected standards; his NUS affiliation features in nearly every headline. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-23.html)
