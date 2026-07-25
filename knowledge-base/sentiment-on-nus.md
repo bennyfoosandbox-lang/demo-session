@@ -2,10 +2,44 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-24
-run_count: 2
-digest_count: 2
+last_run: 2026-07-25
+run_count: 3
+digest_count: 3
 entries:
+  - fingerprint: nirba-rna-biology-hub-nus-2026
+    title: "Singapore opens S$130m national RNA science hub at NUS Kent Ridge"
+    first_seen: 2026-07-25
+    digest: sentiment-on-nus-2026-Jul-25.html
+    urls:
+      - https://news.nus.edu.sg/nirba-opens-research-space-singapore/
+      - https://www.biospectrumasia.com/news/26/28094/national-initiative-for-rna-biology-and-its-applications-opens-new-hub-in-singapore.html
+      - https://nirba.sg/
+  - fingerprint: nus-us-news-math-ranking-2026
+    title: "NUS tops Southeast Asia in mathematics, adding an eighth global top-10 subject"
+    first_seen: 2026-07-25
+    digest: sentiment-on-nus-2026-Jul-25.html
+    urls:
+      - https://e.vnexpress.net/news/tech/tech-news/university-from-world-s-second-richest-country-leads-southeast-asia-in-mathematics-5100773.html
+  - fingerprint: nus-flood-prediction-rainfall-runoff-research-2026
+    title: "NUS engineers build a campus-wide sensor network to predict Singapore's flash floods"
+    first_seen: 2026-07-25
+    digest: sentiment-on-nus-2026-Jul-25.html
+    urls:
+      - https://news.nus.edu.sg/nus-researchers-study-singapores-rainfall-and-runoff-to-predict-urban-floods/
+  - fingerprint: chew-chor-meng-daughter-nus-graduation-2026
+    title: "Actor Chew Chor Meng's daughter's NUS graduation draws warm local media coverage"
+    first_seen: 2026-07-25
+    digest: sentiment-on-nus-2026-Jul-25.html
+    urls:
+      - https://www.straitstimes.com/life/entertainment/proud-of-the-woman-you-have-become-actor-chew-chor-mengs-daughter-graduates-from-nus
+      - https://mothership.sg/2026/07/chew-chor-meng-daughter-graduate-from-nus/
+      - https://www.8days.sg/entertainment/local/chew-chor-meng-missed-daughters-nus-graduation-proudly-celebrated-her-big-day-home-861066
+  - fingerprint: nus-herdsa-2026-ai-education-symposium
+    title: "NUS hosts 1,000 educators debating how universities should teach in the AI era"
+    first_seen: 2026-07-25
+    digest: sentiment-on-nus-2026-Jul-25.html
+    urls:
+      - https://news.nus.edu.sg/education-for-a-changing-world-developing-human-centric-graduates-in-the-age-of-ai/
   - fingerprint: nus-us-news-cs-ranking-drop-2027
     title: "NUS slips to 6th in US News computer science rankings — but climbs four spots overall"
     first_seen: 2026-07-24
@@ -76,6 +110,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-25
+- **Singapore opens S$130m national RNA science hub at NUS Kent Ridge** — NIRBA's 2,000 sqm Hub opened at Block S9, officiated by NRF chairman Heng Swee Keat, uniting NUS, NTU and A*STAR researchers across four RNA-biology research clusters. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-25.html)
+- **NUS tops Southeast Asia in mathematics, adding an eighth global top-10 subject** — 32nd worldwide (tying Imperial College London) in the 2026–2027 US News mathematics ranking; NUS placed top-10 globally across eight subjects total in the same ranking cycle. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-25.html)
+- **NUS engineers build a campus-wide sensor network to predict Singapore's flash floods** — Prof Simone Fatichi's 22-month study of an 8.6ha stretch of Kent Ridge campus models tropical rainfall-runoff to forecast urban flood hotspots. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-25.html)
+- **Actor Chew Chor Meng's daughter's NUS graduation draws warm local media coverage** — Chloe Chew's Communications degree graduation from NUS covered by Straits Times, Mothership and 8 Days. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-25.html)
+- **NUS hosts 1,000 educators debating how universities should teach in the AI era** — HERDSA 2026 conference at NUS University Town (6–9 Jul), NUS's debut as host outside Australia, featured a panel on human-centric education amid AI disruption. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-25.html)
 
 ## 2026-Jul-24
 - **NUS slips to 6th in US News computer science rankings — but climbs four spots overall** — CS subject ranking fell from 2nd to 6th while NUS's overall US News rank rose from 20th to 16th; NTU held 4th in CS. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-24.html)
