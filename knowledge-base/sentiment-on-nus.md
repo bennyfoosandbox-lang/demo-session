@@ -2,10 +2,48 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-25
-run_count: 3
-digest_count: 3
+last_run: 2026-07-26
+run_count: 4
+digest_count: 4
 entries:
+  - fingerprint: nussu-rag-flag-day-2026-67th-edition
+    title: "NUS's 67th Rag & Flag tradition hits the streets, timed to the university's 120th and Singapore's SG60"
+    first_seen: 2026-07-26
+    digest: sentiment-on-nus-2026-Jul-26.html
+    urls:
+      - https://osa.nus.edu.sg/event/nussu-flag-day-2026/
+      - https://osa.nus.edu.sg/event/nussu-rag-day-2026/
+      - https://www.giving.sg/donate/campaign/nussu-rag--flag-2026
+  - fingerprint: nus-pro-chancellor-noeleen-heyzer-2026
+    title: "Former UN Under-Secretary-General Dr Noeleen Heyzer appointed NUS Pro-Chancellor"
+    first_seen: 2026-07-26
+    digest: sentiment-on-nus-2026-Jul-26.html
+    urls:
+      - https://news.nus.edu.sg/dr-noeleen-heyzer-appointed-as-nus-pro-chancellor/
+  - fingerprint: nus-cde-hbn-rf-switches-5g-6g-2026
+    title: "NUS engineers pack 25,000-times-smaller radio switches onto 5G/6G chips, publish in Nature"
+    first_seen: 2026-07-26
+    digest: sentiment-on-nus-2026-Jul-26.html
+    urls:
+      - https://www.rfglobalnet.com/doc/nus-cde-researchers-develop-compact-power-saving-switches-g-and-future-g-chips-0001
+      - https://cde.nus.edu.sg/news/nus-cde-researchers-develop-compact-power-saving-switches/
+      - https://www.eurekalert.org/multimedia/1142839
+  - fingerprint: nus-academics-oped-commentary-week-jul2026
+    title: "NUS academics command this week's op-ed pages on the Gulf war, Singapore's \"social recession\" and road-sharing liability"
+    first_seen: 2026-07-26
+    digest: sentiment-on-nus-2026-Jul-26.html
+    urls:
+      - https://www.channelnewsasia.com/commentary/us-iran-war-gulf-impact-hormuz-control-6273151
+      - https://www.channelnewsasia.com/commentary/singapore-social-recession-risk-weaker-social-ties-volunteering-6260151
+      - https://news.nus.edu.sg/study-singapore-has-worlds-highest-life-expectancy-but-sick-years-lengthen-to-112-years/
+  - fingerprint: nuh-smartwatch-inpatient-monitoring-2026
+    title: "NUS Medicine-backed smartwatch pilot at National University Hospital moves to wider rollout"
+    first_seen: 2026-07-26
+    digest: sentiment-on-nus-2026-Jul-26.html
+    urls:
+      - https://www.healthcareitnews.com/news/asia/national-university-hospital-adds-smartwatches-inpatient-checks
+      - https://www.biospectrumasia.com/news/54/28030/singapore-to-expand-wearable-technology-for-patient-monitoring-following-successful-pilot-.html
+      - https://www.prnewswire.com/news-releases/national-university-hospital-to-expand-wearable-technology-for-patient-monitoring-following-successful-pilot-302826140.html
   - fingerprint: nirba-rna-biology-hub-nus-2026
     title: "Singapore opens S$130m national RNA science hub at NUS Kent Ridge"
     first_seen: 2026-07-25
@@ -110,6 +148,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-26
+- **NUS's 67th Rag & Flag tradition hits the streets, timed to the university's 120th and Singapore's SG60** — Faculty Flag Day held 25 Jul, Hostel Flag Day set for 1 Aug across ~120 collection points, Rag Day showcase 8 Aug with Education Minister Desmond Lee as guest of honour; theme "Connecting Beyond Horizons". [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-26.html)
+- **Former UN Under-Secretary-General Dr Noeleen Heyzer appointed NUS Pro-Chancellor** — three-year term from 1 Aug 2026, appointed by Chancellor Tharman Shanmugaratnam; Heyzer is an NUS alumna and Rector of Ridge View Residential College. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-26.html)
+- **NUS engineers pack 25,000-times-smaller radio switches onto 5G/6G chips, publish in Nature** — Prof Mario Lanza's team built memristive hBN switches on gallium-nitride chips, tested to 100GHz; published in Nature 8 Jul 2026. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-26.html)
+- **NUS academics command this week's op-ed pages on the Gulf war, Singapore's "social recession" and road-sharing liability** — Prof Joseph Chinyong Liow and IPS researchers placed commentaries in CNA; a Zaobao report cited an NUS-linked life-expectancy study, all within a four-day span. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-26.html)
+- **NUS Medicine-backed smartwatch pilot at National University Hospital moves to wider rollout** — pilot found smartwatches flagged deterioration up to two hours earlier than manual checks; NUH aims to equip ~10% of suitable inpatients within 12 months. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-26.html)
 
 ## 2026-Jul-25
 - **Singapore opens S$130m national RNA science hub at NUS Kent Ridge** — NIRBA's 2,000 sqm Hub opened at Block S9, officiated by NRF chairman Heng Swee Keat, uniting NUS, NTU and A*STAR researchers across four RNA-biology research clusters. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-25.html)
