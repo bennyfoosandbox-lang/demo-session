@@ -2,10 +2,44 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-26
-run_count: 4
-digest_count: 4
+last_run: 2026-07-27
+run_count: 5
+digest_count: 5
 entries:
+  - fingerprint: shanmugam-nus-law-freshmen-inauguration-attrition-2026
+    title: "Shanmugam tells NUS Law freshmen that lawyer-attrition concerns are real, but so is the pressure that \"comes with the territory\""
+    first_seen: 2026-07-27
+    digest: sentiment-on-nus-2026-Jul-27.html
+    urls:
+      - https://www.channelnewsasia.com/singapore/shanmugam-nus-law-practice-inauguration-ceremony-attrition-6278871
+      - https://www.straitstimes.com/singapore/courts-crime/attrition-rate-among-spore-lawyers-stable-but-issues-remain-says-shanmugam
+      - https://www.businesstimes.com.sg/singapore/attrition-rate-among-singapore-lawyers-stable-issues-remain-says-shanmugam
+  - fingerprint: nus-law-sushil-nair-chief-justice-2026
+    title: "NUS Law alumnus Justice Sushil Nair to become Singapore's 5th Chief Justice"
+    first_seen: 2026-07-27
+    digest: sentiment-on-nus-2026-Jul-27.html
+    urls:
+      - https://www.pmo.gov.sg/newsroom/retirement-of-chief-justice-sundaresh-menon-and-appointment-of-justice-sushil-nair-as-singapores-5th-chief-justice/
+      - https://www.facebook.com/NUS.Law/posts/the-nus-faculty-of-law-warmly-congratulates-our-distinguished-alumnus-justice-su/1652326216894681/
+      - https://mothership.sg/2026/07/singapore-chief-justice-sundaresh-menon-to-retire/
+  - fingerprint: pornsak-nus-medicine-masters-2026
+    title: "Thai TV host Pornsak Prajakwit enrols at NUS Medicine for a Master's in Nutrition and Lifestyle Medicine"
+    first_seen: 2026-07-27
+    digest: sentiment-on-nus-2026-Jul-27.html
+    urls:
+      - https://www.asiaone.com/entertainment/pornsak-accepted-nus-medical-school-pursue-masters-degree
+  - fingerprint: nus-fass-gretchen-coffman-mangrove-day-2026
+    title: "On World Mangrove Day, NUS spotlights a geographer teaching students to see mangroves as \"climate infrastructure\""
+    first_seen: 2026-07-27
+    digest: sentiment-on-nus-2026-Jul-27.html
+    urls:
+      - https://news.nus.edu.sg/gretchen-coffman-cultivating-next-generation-mangrove-champions/
+  - fingerprint: nus-computing-teo-tan-china-moe-award-2026
+    title: "NUS Computing pair's 2022 healthcare-IT paper wins a top Chinese Ministry of Education research award"
+    first_seen: 2026-07-27
+    digest: sentiment-on-nus-2026-Jul-27.html
+    urls:
+      - https://www.comp.nus.edu.sg/bytes/faculty-members-teo-hock-hai-and-tan-chuan-hoos-co-authored-paper-wins-chinas-ministry-of-education-research-award/
   - fingerprint: nussu-rag-flag-day-2026-67th-edition
     title: "NUS's 67th Rag & Flag tradition hits the streets, timed to the university's 120th and Singapore's SG60"
     first_seen: 2026-07-26
@@ -148,6 +182,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-27
+- **Shanmugam tells NUS Law freshmen that lawyer-attrition concerns are real, but so is the pressure that "comes with the territory"** — at the 26 Jul freshmen inauguration ceremony, Minister K Shanmugam cited a Law Society study on attrition, noting the rate has stayed broadly stable (60% still practising after 5 years, 40% after 10) even as the profession grew 26%. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-27.html)
+- **NUS Law alumnus Justice Sushil Nair to become Singapore's 5th Chief Justice** — PMO announced 17 Jul that Nair ('89 NUS Law grad) succeeds Sundaresh Menon on 26 Feb 2027; NUS Law's congratulatory campaign and a 24 Jul meeting with the Philippines' Chief Justice kept the story fresh through this week. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-27.html)
+- **Thai TV host Pornsak Prajakwit enrols at NUS Medicine for a Master's in Nutrition and Lifestyle Medicine** — announced via Instagram 25 Jul; starts August 2026 at Yong Loo Lin School of Medicine. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-27.html)
+- **On World Mangrove Day, NUS spotlights a geographer teaching students to see mangroves as "climate infrastructure"** — Dr Gretchen Coffman's "roots to reefs" fieldwork across Singapore, Indonesia and Malaysia profiled by NUS Newsroom on 26 Jul. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-27.html)
+- **NUS Computing pair's 2022 healthcare-IT paper wins a top Chinese Ministry of Education research award** — Prof Teo Hock Hai and Prof Tan Chuan Hoo's MIS Quarterly paper won the Youth Achievement Award at China's 10th MOE research awards, announced 27 Jul. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-27.html)
 
 ## 2026-Jul-26
 - **NUS's 67th Rag & Flag tradition hits the streets, timed to the university's 120th and Singapore's SG60** — Faculty Flag Day held 25 Jul, Hostel Flag Day set for 1 Aug across ~120 collection points, Rag Day showcase 8 Aug with Education Minister Desmond Lee as guest of honour; theme "Connecting Beyond Horizons". [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-26.html)
