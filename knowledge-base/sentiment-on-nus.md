@@ -2,10 +2,42 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-27
-run_count: 5
-digest_count: 5
+last_run: 2026-07-28
+run_count: 6
+digest_count: 6
 entries:
+  - fingerprint: nus-nursing-zhou-wentao-presidents-award-2026
+    title: "NUS nursing leader Assoc Prof Zhou Wentao wins Singapore's top nursing honour"
+    first_seen: 2026-07-28
+    digest: sentiment-on-nus-2026-Jul-28.html
+    urls:
+      - https://news.nus.edu.sg/associate-professor-zhou-wentao-from-nus-nursing-receives-presidents-award-for-nurses-2026/
+      - https://medicine.nus.edu.sg/news/associate-professor-zhou-wentao-receives-presidents-award-for-nurses-2026/
+  - fingerprint: nus-psychology-joshua-lee-cancer-survivor-graduate-2026
+    title: "\"They really walk the talk\": NUS student's cancer journey highlights the university's support system"
+    first_seen: 2026-07-28
+    digest: sentiment-on-nus-2026-Jul-28.html
+    urls:
+      - https://www.straitstimes.com/singapore/parenting-education/diagnosed-with-cancer-at-24-joshua-lee-found-hope-in-community-graduated-from-nus-with-honours
+  - fingerprint: nus-nuhs-exeter-family-medicine-mou-2026
+    title: "University of Exeter signs family-medicine pact with NUS and National University Health System"
+    first_seen: 2026-07-28
+    digest: sentiment-on-nus-2026-Jul-28.html
+    urls:
+      - https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/family-medicine-the-focus-of-new-agreement-with-singapore/
+  - fingerprint: nus-cde-stanford-gedi-meta-venture-corp-2026
+    title: "NUS engineering students take hotel-check-in and golf-coaching concepts to Stanford, built with Meta and Venture Corp"
+    first_seen: 2026-07-28
+    digest: sentiment-on-nus-2026-Jul-28.html
+    urls:
+      - https://www.eurekalert.org/news-releases/1135635
+      - https://cde.nus.edu.sg/news/nus-cde-and-stanford-students-co-create-innovative-new-projects-with-meta-venture-corporation-through-gedi-programme/
+  - fingerprint: nus-commencement-dinner-close-2026
+    title: "Commencement Dinner closes out NUS's two-week graduation season for the Class of 2026"
+    first_seen: 2026-07-28
+    digest: sentiment-on-nus-2026-Jul-28.html
+    urls:
+      - https://news.nus.edu.sg/commencement-dinner-a-toast-to-the-nus-class-of-2026-and-the-community-behind-them/
   - fingerprint: shanmugam-nus-law-freshmen-inauguration-attrition-2026
     title: "Shanmugam tells NUS Law freshmen that lawyer-attrition concerns are real, but so is the pressure that \"comes with the territory\""
     first_seen: 2026-07-27
@@ -182,6 +214,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-28
+- **NUS nursing leader Assoc Prof Zhou Wentao wins Singapore's top nursing honour** — President Tharman Shanmugaratnam and Health Minister Ong Ye Kung conferred the President's Award for Nurses 2026 on Zhou Wentao of NUS Yong Loo Lin School of Medicine on 27 Jul; she established Singapore's first Doctor of Nursing Practice programme in 2025 and serves as ICN Treasurer. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-28.html)
+- **"They really walk the talk": NUS student's cancer journey highlights the university's support system** — Straits Times profiled psychology undergrad Joshua Lee, diagnosed with Stage 3 testicular cancer in 2024, whose professors and staff restructured his coursework and rallied support; he graduated with honours in Nov 2025, cancer-free. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-28.html)
+- **University of Exeter signs family-medicine pact with NUS and National University Health System** — MOU signed 27 Jul establishes joint research and exchange on healthy ageing, multimorbidity, digital innovation and preventive care. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-28.html)
+- **NUS engineering students take hotel-check-in and golf-coaching concepts to Stanford, built with Meta and Venture Corp** — NUS CDE students showcased PrimeDrive (Venture Corp-sponsored hotel AI concierge) and Golf Hawks (Meta smart-glasses golf coaching) at Stanford under the GEDI programme, funded by a US$1.5m Khetan Foundation gift. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-28.html)
+- **Commencement Dinner closes out NUS's two-week graduation season for the Class of 2026** — 24 Jul dinner at Tembusu and Acacia College dining halls capped 39 ceremonies for 17,900+ graduates. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-28.html)
 
 ## 2026-Jul-27
 - **Shanmugam tells NUS Law freshmen that lawyer-attrition concerns are real, but so is the pressure that "comes with the territory"** — at the 26 Jul freshmen inauguration ceremony, Minister K Shanmugam cited a Law Society study on attrition, noting the rate has stayed broadly stable (60% still practising after 5 years, 40% after 10) even as the profession grew 26%. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-27.html)
