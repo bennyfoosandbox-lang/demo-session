@@ -2,10 +2,43 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-28
-run_count: 6
-digest_count: 6
+last_run: 2026-07-29
+run_count: 7
+digest_count: 7
 entries:
+  - fingerprint: nus-ai-sense-maker-chatbot-2026
+    title: "NUS launches \"AI Sense Maker,\" an AI chatbot to unlock 150,000 rare collections and research papers"
+    first_seen: 2026-07-29
+    digest: sentiment-on-nus-2026-Jul-29.html
+    urls:
+      - https://www.straitstimes.com/tech/nus-rare-collections-research-papers-to-be-made-searchable-through-new-ai-chatbot
+  - fingerprint: nus-us-news-ai-ranking-top10-2026
+    title: "NUS climbs to 5th globally in AI in new US News rankings — Singapore the only Southeast Asian nation with two universities in the world top 10"
+    first_seen: 2026-07-29
+    digest: sentiment-on-nus-2026-Jul-29.html
+    urls:
+      - https://e.vnexpress.net/news/tech/tech-news/world-s-second-richest-country-leads-southeast-asia-with-two-universities-in-global-ai-top-10-5102649.html
+      - https://www.usnews.com/education/best-global-universities/singapore/artificial-intelligence
+  - fingerprint: nus-cde-x-sig-cross-modal-sensor-2026
+    title: "NUS engineers unveil X-Sig, a single skin patch that fuses heart and muscle signals for simpler wearable health monitoring"
+    first_seen: 2026-07-29
+    digest: sentiment-on-nus-2026-Jul-29.html
+    urls:
+      - https://medicalxpress.com/news/2026-07-patch-merges-multiple-physiological-simpler.html
+      - https://www.eurekalert.org/news-releases/1137674
+  - fingerprint: nus-lightbulb-reactor-decarbonisation-2026
+    title: "NUS unveils a lightbulb-inspired reactor tackling hydrogen production, plastics recycling and methane conversion"
+    first_seen: 2026-07-29
+    digest: sentiment-on-nus-2026-Jul-29.html
+    urls:
+      - https://news.nus.edu.sg/lightbulb-reactor-tackles-decarbonisation-challenges/
+  - fingerprint: nus-mervin-tee-cindy-chan-phd-determination-2026
+    title: "\"A doctorate in determination\": NUS graduate Dr Mervin Tee's journey from failing O-Levels to a PhD, alongside his wife"
+    first_seen: 2026-07-29
+    digest: sentiment-on-nus-2026-Jul-29.html
+    urls:
+      - https://news.nus.edu.sg/a-doctorate-in-determination/
+      - https://www.straitstimes.com/singapore/parenting-education/from-failing-o-levels-to-a-phd-in-public-health-how-this-nus-grad-redefined-success-for-himself
   - fingerprint: nus-nursing-zhou-wentao-presidents-award-2026
     title: "NUS nursing leader Assoc Prof Zhou Wentao wins Singapore's top nursing honour"
     first_seen: 2026-07-28
@@ -214,6 +247,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-29
+- **NUS launches "AI Sense Maker," an AI chatbot to unlock 150,000 rare collections and research papers** — GPT-4.1-powered RAG chatbot, built by NUS Libraries, aims to cut research-discovery time from ~2 weeks to ~30 minutes; launches for students, faculty and alumni in August. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-29.html)
+- **NUS climbs to 5th globally in AI in new US News rankings** — Singapore is the only Southeast Asian nation with two universities (NUS 5th, NTU 2nd) in the world's AI top 10 in the 2026–2027 US News Best Global Universities subject rankings. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-29.html)
+- **NUS engineers unveil X-Sig, a single skin patch fusing heart and muscle signals for simpler wearable health monitoring** — Asst Prof Liu Yuxin's team published the cross-modal epidermal sensor in Nature Sensors, achieving Class-A cuffless blood-pressure accuracy and 96.4% gesture-recognition accuracy from one output channel. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-29.html)
+- **NUS unveils a lightbulb-inspired reactor tackling hydrogen production, plastics recycling and methane conversion** — Prof Yan Ning's NUS Centre for Hydrogen and Carbon Innovations reactor, detailed across three 2025–2026 Nature-family papers, heats a thin filament past 1,200°C to drive decarbonisation-relevant chemistry on electricity. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-29.html)
+- **"A doctorate in determination": NUS graduate Dr Mervin Tee's journey from failing O-Levels to a PhD** — Tee and his wife Dr Cindy Chan both completed PhDs at NUS Saw Swee Hock School of Public Health this year, graduating together after Tee's path from a factory floor through polytechnic to neuroimaging research. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-29.html)
 
 ## 2026-Jul-28
 - **NUS nursing leader Assoc Prof Zhou Wentao wins Singapore's top nursing honour** — President Tharman Shanmugaratnam and Health Minister Ong Ye Kung conferred the President's Award for Nurses 2026 on Zhou Wentao of NUS Yong Loo Lin School of Medicine on 27 Jul; she established Singapore's first Doctor of Nursing Practice programme in 2025 and serves as ICN Treasurer. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-28.html)
