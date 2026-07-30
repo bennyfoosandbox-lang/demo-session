@@ -2,10 +2,41 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-29
-run_count: 7
-digest_count: 7
+last_run: 2026-07-30
+run_count: 8
+digest_count: 8
 entries:
+  - fingerprint: nus-medicine-korea-rsc-regulatory-science-mou-2026
+    title: "Korea's regulatory science centre signs MOU with NUS Medicine to build an Asia-wide biohealth network"
+    first_seen: 2026-07-30
+    digest: sentiment-on-nus-2026-Jul-30.html
+    urls:
+      - https://www.biospectrumasia.com/news/30/28116/korea-and-singapore-ink-mou-to-advance-regulatory-science-cooperation-across-asia.html
+  - fingerprint: nus-npm-phase2-nature-genetics-2026
+    title: "Singapore's National Precision Medicine programme publishes its Phase II results in Nature Genetics"
+    first_seen: 2026-07-30
+    digest: sentiment-on-nus-2026-Jul-30.html
+    urls:
+      - https://www.nature.com/articles/s41588-026-02687-8
+  - fingerprint: nus-tan-peng-hock-bursary-bequest-2026
+    title: "\"A Life Shaped by Learning\": late geography teacher's bequest funds a new NUS undergraduate bursary"
+    first_seen: 2026-07-30
+    digest: sentiment-on-nus-2026-Jul-30.html
+    urls:
+      - https://nus.edu.sg/nusgiving/news-article/2026/07/29/a-life-shaped-by-learning
+  - fingerprint: nus-jasmin-kaur-sandhu-police-inspector-bursary-2026
+    title: "\"Growing Beyond Adversity\": bursary-backed NUS Psychology grad now serves as a Singapore Police Force inspector"
+    first_seen: 2026-07-30
+    digest: sentiment-on-nus-2026-Jul-30.html
+    urls:
+      - https://nus.edu.sg/nusgiving/news-article/2026/07/29/growing-beyond-adversity
+  - fingerprint: nus-isas-ronojoy-sen-cockroach-protests-india-2026
+    title: "NUS South Asia scholar's analysis of India's \"Cockroach\" protests puts an NUS byline behind a major regional story"
+    first_seen: 2026-07-30
+    digest: sentiment-on-nus-2026-Jul-30.html
+    urls:
+      - https://www.isas.nus.edu.sg/papers/the-cockroach-protests-indias-education-minister-resigns/
+      - https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests
   - fingerprint: nus-ai-sense-maker-chatbot-2026
     title: "NUS launches \"AI Sense Maker,\" an AI chatbot to unlock 150,000 rare collections and research papers"
     first_seen: 2026-07-29
@@ -247,6 +278,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-30
+- **Korea's regulatory science centre signs MOU with NUS Medicine to build an Asia-wide biohealth network** — K-RSC (Director General Oh Jae-ho) and NUS Medicine's Dept of Pharmacology (Assoc Prof Seok Kwon Soga) signed 29 Jul, committing to joint conferences, research and a regional regulatory-science hub. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-30.html)
+- **Singapore's National Precision Medicine programme publishes its Phase II results in Nature Genetics** — 29 Jul paper details the PRECISE-SG100K dataset (100,000 genomes sequenced), clinical translation via familial hypercholesterolemia, and sets up Phase III's goal of genome sequencing for 10% of the population by 2031. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-30.html)
+- **"A Life Shaped by Learning": late geography teacher's bequest funds a new NUS undergraduate bursary** — NUS Giving profiled the late Mr Tan Peng Hock ('69 Arts and Social Sciences), whose estate bequest established the Tan Peng Hock Bursary for NUS students. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-30.html)
+- **"Growing Beyond Adversity": bursary-backed NUS Psychology grad now serves as a Singapore Police Force inspector** — Jasmin Kaur Sandhu ('25 Arts and Social Sciences) overcame family violence and estrangement with donor-bursary support, graduated with a 4.0 GPA, and is now a police inspector. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-30.html)
+- **NUS South Asia scholar's analysis of India's "Cockroach" protests puts an NUS byline behind a major regional story** — ISAS's Dr Ronojoy Sen published a 28 Jul brief on Indian Education Minister Dharmendra Pradhan's protest-driven resignation, the first cabinet resignation of Modi's tenure under public pressure. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-30.html)
 
 ## 2026-Jul-29
 - **NUS launches "AI Sense Maker," an AI chatbot to unlock 150,000 rare collections and research papers** — GPT-4.1-powered RAG chatbot, built by NUS Libraries, aims to cut research-discovery time from ~2 weeks to ~30 minutes; launches for students, faculty and alumni in August. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-29.html)
