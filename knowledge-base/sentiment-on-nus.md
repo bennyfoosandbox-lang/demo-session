@@ -2,10 +2,42 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-30
-run_count: 8
-digest_count: 8
+last_run: 2026-07-31
+run_count: 9
+digest_count: 9
 entries:
+  - fingerprint: nus-um-55th-tunku-chancellor-golf-tournament-2026
+    title: "Singapore's PM hosts Malaysia's deputy king as the 55th UM–NUS golf tournament renews a 58-year-old tradition"
+    first_seen: 2026-07-31
+    digest: sentiment-on-nus-2026-Jul-31.html
+    urls:
+      - https://asean.bernama.com/news.php?id=2588290
+  - fingerprint: nuhs-ncaip-pharmacy-ai-850-hours-2026
+    title: "NUHS's new pharmacy AI platform is projected to save 850 pharmacist-hours a week"
+    first_seen: 2026-07-31
+    digest: sentiment-on-nus-2026-Jul-31.html
+    urls:
+      - https://www.healthcareitnews.com/news/asia/nuhs-save-850-staff-hours-weekly-new-pharma-ai
+  - fingerprint: nus-business-school-goh-puay-guan-supply-chains-oped-2026
+    title: "NUS Business School economist argues Singapore can \"orchestrate\" fractured global supply chains"
+    first_seen: 2026-07-31
+    digest: sentiment-on-nus-2026-Jul-31.html
+    urls:
+      - https://news.nus.edu.sg/how-singapore-can-orchestrate-global-supply-chains-in-a-fractured-world/
+  - fingerprint: tan-chorh-chuan-former-nus-president-retirement-2026
+    title: "Former NUS President Tan Chorh Chuan retires from Singapore's top science-and-research post"
+    first_seen: 2026-07-31
+    digest: sentiment-on-nus-2026-Jul-31.html
+    urls:
+      - https://www.psd.gov.sg/newsroom/permanent-secretary-retirement-and-appointments-30-jul-2026/
+      - https://www.asiaone.com/singapore/tan-chorh-chuan-retires-dsta-chief-ng-chad-son-appointed-permanent-secretary
+  - fingerprint: nus-xiaogang-liu-lanthanide-carriers-frontiers-science-2026
+    title: "NUS chemist co-leads major Frontiers in Science review on lanthanide-based medical imaging"
+    first_seen: 2026-07-31
+    digest: sentiment-on-nus-2026-Jul-31.html
+    urls:
+      - https://www.news-medical.net/news/20260730/Lanthanide-carriers-advance-next-generation-biomedical-imaging-and-theranostics.aspx
+      - https://www.frontiersin.org/news/2026/07/30/frontiers-in-science-lanthanide-carriers-can-enhance-biomedical-imaging-and-combined-diagnosis-and-treatment-approaches
   - fingerprint: nus-medicine-korea-rsc-regulatory-science-mou-2026
     title: "Korea's regulatory science centre signs MOU with NUS Medicine to build an Asia-wide biohealth network"
     first_seen: 2026-07-30
@@ -278,6 +310,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Jul-31
+- **Singapore's PM hosts Malaysia's deputy king as the 55th UM–NUS golf tournament renews a 58-year-old tradition** — Sultan Nazrin Shah of Perak, Universiti Malaya's Chancellor, visited Singapore 29–30 Jul for the tournament first played in 1968; PM Lawrence Wong hosted him for breakfast at the Istana to discuss ASEAN cooperation. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-31.html)
+- **NUHS's new pharmacy AI platform is projected to save 850 pharmacist-hours a week** — NCAIP bundles four AI tools (MedRecon, MedTriage, MedVerify) built on NUHS's ENDEAVOUR platform, hitting 88–100% accuracy in validation and eyeing a nationwide rollout pitch. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-31.html)
+- **NUS Business School economist argues Singapore can "orchestrate" fractured global supply chains** — Assoc Prof Goh Puay Guan's 28 Jul Business Times commentary continues NUS's steady stream of faculty op-eds in Singapore's mainstream press. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-31.html)
+- **Former NUS President Tan Chorh Chuan retires from Singapore's top science-and-research post** — Tan, NUS president 2008–2017 and founder-era steward of Yale-NUS College, retires 1 Sept as PMO Permanent Secretary for National R&D; succeeded by DSTA chief Ng Chad-Son. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-31.html)
+- **NUS chemist co-leads major Frontiers in Science review on lanthanide-based medical imaging** — Prof Xiaogang Liu and Dr Yuxia Liu's 30 Jul review maps how lanthanide carriers could advance next-gen imaging and theranostics. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-31.html)
 
 ## 2026-Jul-30
 - **Korea's regulatory science centre signs MOU with NUS Medicine to build an Asia-wide biohealth network** — K-RSC (Director General Oh Jae-ho) and NUS Medicine's Dept of Pharmacology (Assoc Prof Seok Kwon Soga) signed 29 Jul, committing to joint conferences, research and a regional regulatory-science hub. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-30.html)
