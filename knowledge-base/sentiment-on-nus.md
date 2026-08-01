@@ -2,10 +2,31 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-07-31
-run_count: 9
-digest_count: 9
+last_run: 2026-08-01
+run_count: 10
+digest_count: 10
 entries:
+  - fingerprint: nus-faishal-ibrahim-fitness-coach-osc-tiktok-2026
+    title: "Wrongly-accused fitness coach clears her name as the Faishal Ibrahim fallout takes a new turn"
+    first_seen: 2026-08-01
+    digest: sentiment-on-nus-2026-Aug-01.html
+    urls:
+      - https://mothership.sg/2026/07/fitness-trainer-wrongfully-accused-faishal/
+      - https://mothership.sg/2026/07/osc-tiktok-instructor-faishal-remove/
+      - https://news.theonlinecitizen.com/2026/07/27/fitness-coach-rasidah-caudal-denies-link-to-faishal-ibrahim-case-warns-of-legal-action-over-rumours
+      - https://theindependent.sg/pap-mps-back-woman-wrongly-implicated-in-faishal-ibrahim-controversy/
+  - fingerprint: nus-law-youth-debate-2026-champions
+    title: "NUS Law students crowned champions of Youth Debate 2026"
+    first_seen: 2026-08-01
+    digest: sentiment-on-nus-2026-Aug-01.html
+    urls:
+      - https://news.nus.edu.sg/nus-law-students-crowned-champions-of-youth-debate-2026
+  - fingerprint: nus-diamonds-forged-under-pressure-graduates-2026
+    title: "\"Diamonds forged under pressure\": three more Class of 2026 graduates turn hardship into achievement"
+    first_seen: 2026-08-01
+    digest: sentiment-on-nus-2026-Aug-01.html
+    urls:
+      - https://news.nus.edu.sg/diamonds-forged-under-pressure-three-inspiring-nus-graduates-who-turned-their-challenges-into-hope
   - fingerprint: nus-um-55th-tunku-chancellor-golf-tournament-2026
     title: "Singapore's PM hosts Malaysia's deputy king as the 55th UM–NUS golf tournament renews a 58-year-old tradition"
     first_seen: 2026-07-31
@@ -310,6 +331,11 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Aug-01
+- **Wrongly-accused fitness coach clears her name as the Faishal Ibrahim fallout takes a new turn** — Rasidah Caudal publicly denied being the woman linked to Assoc Prof Faishal Ibrahim's resignation, Singapore's Online Safety Commission ordered a false TikTok claim removed, and PAP MPs voiced public support for her. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-01.html)
+- **NUS Law students crowned champions of Youth Debate 2026** — a fresh competitive win for the faculty as it heads into the new academic year. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-01.html)
+- **"Diamonds forged under pressure": three more Class of 2026 graduates turn hardship into achievement** — NUS Newsroom profiled Eliza Lim, Nicolette Koh and Yap Yu Ting, continuing the season's run of resilience-themed alumni features. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-01.html)
 
 ## 2026-Jul-31
 - **Singapore's PM hosts Malaysia's deputy king as the 55th UM–NUS golf tournament renews a 58-year-old tradition** — Sultan Nazrin Shah of Perak, Universiti Malaya's Chancellor, visited Singapore 29–30 Jul for the tournament first played in 1968; PM Lawrence Wong hosted him for breakfast at the Istana to discuss ASEAN cooperation. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Jul-31.html)
