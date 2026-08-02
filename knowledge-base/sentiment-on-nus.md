@@ -2,10 +2,43 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-08-01
-run_count: 10
-digest_count: 10
+last_run: 2026-08-02
+run_count: 11
+digest_count: 11
 entries:
+  - fingerprint: nus-ntu-smu-hostel-fee-increase-ay2026-27
+    title: "Hostel fees rise up to S$80 a month at NUS, NTU and SMU for the new academic year"
+    first_seen: 2026-08-02
+    digest: sentiment-on-nus-2026-Aug-02.html
+    urls:
+      - https://mothership.sg/2026/07/nus-ntu-smu-increase-hostel-fees/
+      - https://www.magzter.com/stories/newspaper/The-Straits-Times/HOSTEL-FEES-RISE-BY-UP-TO-80-A-MONTH-AT-THREE-UNIVERSITIES
+  - fingerprint: nus-graduates-startups-agrolitik-sup-scentura-2026
+    title: "\"Starting out and up\": three more Class of 2026 teams turn NUS projects into start-ups"
+    first_seen: 2026-08-02
+    digest: sentiment-on-nus-2026-Aug-02.html
+    urls:
+      - https://news.nus.edu.sg/starting-out-and-up-nus-graduates-launch-entrepreneurial-ventures-in-precision-farming-wearable-tech-and-scent-based-marketing/
+  - fingerprint: nus-commencement-2026-fieldnote-healthx-cross-disciplinary
+    title: "\"Better together\": Class of 2026 graduates credit cross-faculty collaboration for their capstone impact"
+    first_seen: 2026-08-02
+    digest: sentiment-on-nus-2026-Aug-02.html
+    urls:
+      - https://news.nus.edu.sg/better-together-working-across-disciplines-for-real-world-impact
+  - fingerprint: nus-spintronic-probabilistic-processor-nature-comms-2026
+    title: "NUS spintronics team out-solves tested quantum annealers on optimisation problems, using randomness as a resource"
+    first_seen: 2026-08-02
+    digest: sentiment-on-nus-2026-Aug-02.html
+    urls:
+      - https://news.nus.edu.sg/nus-researchers-develop-probabilistic-spintronic-processors
+      - https://www.eurekalert.org/news-releases/1134574
+      - https://techxplore.com/news/2026-07-spintronic-hardware-faster-energy-optimization.html
+  - fingerprint: nus-fintech-verix-xrpl-residency-2026
+    title: "NUS FinTech Lab student builds \"Verix,\" a blockchain trust layer for AI agents, at an XRPL residency in London"
+    first_seen: 2026-08-02
+    digest: sentiment-on-nus-2026-Aug-02.html
+    urls:
+      - https://fintechlab.nus.edu.sg/building-the-trust-layer-for-the-agentic-economy-withe-the-xrp-ledger/
   - fingerprint: nus-faishal-ibrahim-fitness-coach-osc-tiktok-2026
     title: "Wrongly-accused fitness coach clears her name as the Faishal Ibrahim fallout takes a new turn"
     first_seen: 2026-08-01
@@ -331,6 +364,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Aug-02
+- **Hostel fees rise up to S$80 a month at NUS, NTU and SMU for the new academic year** — non-air-conditioned single rooms at Eusoff, King Edward VII and Temasek Halls rose to S$165/week (+S$14); UTown Residence air-conditioned twin-sharing rose to S$275.50/person/week (+S$20.50), timed just ahead of AY2026/27 orientation (3–8 Aug). [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-02.html)
+- **"Starting out and up": three more Class of 2026 teams turn NUS projects into start-ups** — Agrolitik (precision farming), s'up (wearable tech, NUH-linked back-pain study) and Scentura (scent-based retail branding) profiled by NUS Newsroom, all grown through NOC, N-House and BLOCK71. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-02.html)
+- **"Better together": Class of 2026 graduates credit cross-faculty collaboration for their capstone impact** — Givson Ong's FieldNote AI documentation tool for special-education teachers, and "John"'s NUS HealthX student community, both grew out of work spanning multiple NUS faculties. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-02.html)
+- **NUS spintronics team out-solves tested quantum annealers on optimisation problems, using randomness as a resource** — Prof Yang Hyunsoo's 144-random-number-generator probabilistic spintronic processor hit a 3.2x speedup and 58.3% energy savings over CPU on quadratic assignment problems, published in two Nature Communications papers (announced ~2 Jul 2026, carried here as a fallback item). [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-02.html)
+- **NUS FinTech Lab student builds "Verix," a blockchain trust layer for AI agents, at an XRPL residency in London** — Sumit Sanjay Shinde was 1 of 14 students worldwide picked for Ripple's XRPL Student Builder Residency, building an XRP-Ledger-based settlement system for autonomous AI agent payments. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-02.html)
 
 ## 2026-Aug-01
 - **Wrongly-accused fitness coach clears her name as the Faishal Ibrahim fallout takes a new turn** — Rasidah Caudal publicly denied being the woman linked to Assoc Prof Faishal Ibrahim's resignation, Singapore's Online Safety Commission ordered a false TikTok claim removed, and PAP MPs voiced public support for her. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-01.html)
