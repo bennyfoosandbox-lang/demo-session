@@ -2,10 +2,45 @@
 topic: "Sentiment on National University of Singapore"
 topic_slug: sentiment-on-nus
 created: 2026-07-23
-last_run: 2026-08-02
-run_count: 11
-digest_count: 11
+last_run: 2026-08-03
+run_count: 12
+digest_count: 12
 entries:
+  - fingerprint: nus-um-ai-symposium-capella-2026
+    title: "NUS and Universiti Malaya co-host an AI symposium at Capella Sentosa, with President Tharman and Sultan Nazrin in attendance"
+    first_seen: 2026-08-03
+    digest: sentiment-on-nus-2026-Aug-03.html
+    urls:
+      - https://news.nus.edu.sg/nus-and-um-co-host-ai-symposium-sharing-research-outcomes-in-healthcare-robotics-and-more
+      - https://news.nus.edu.sg/nus-and-um-celebrate-shared-origins-and-close-ties-through-golf-academic-symposium/
+      - https://ai.nus.edu.sg/um-nus-joint-academic-symposium-2026/
+  - fingerprint: nus-law-sushil-nair-cj-inaugural-speech-bullying-2026
+    title: "Incoming Chief Justice Sushil Nair, an NUS Law alumnus, uses his first public speech to pledge a crackdown on bullying in the legal profession"
+    first_seen: 2026-08-03
+    digest: sentiment-on-nus-2026-Aug-03.html
+    urls:
+      - https://theonlinecitizen.com/2026/07/30/incoming-chief-justice-sushil-nair-vows-to-tackle-bullying-and-support-sustainable-legal-careers
+      - https://www.tabla.com.sg/news/singapore/singapore-2-minutes-week-july-31
+  - fingerprint: nus-law-alumni-kent-ridge-homecoming-2026
+    title: "NUS Law alumni mark the faculty's homecoming to Kent Ridge after nearly two decades at Bukit Timah"
+    first_seen: 2026-08-03
+    digest: sentiment-on-nus-2026-Aug-03.html
+    urls:
+      - https://news.nus.edu.sg/nus-law-alumni-celebrate-new-home-kent-ridge
+  - fingerprint: nus-economists-oped-carbon-electric-buses-2026
+    title: "NUS economists argue in the Straits Times that Singapore's electric-bus rollout shows carbon accounting is \"only half the story\""
+    first_seen: 2026-08-03
+    digest: sentiment-on-nus-2026-Aug-03.html
+    urls:
+      - https://news.nus.edu.sg/the-carbon-case-for-going-green-is-only-half-the-story
+  - fingerprint: nus-orientation-2026-class-of-2030-begins
+    title: "NUS Semester 1 Orientation opens, welcoming the Class of 2030 to Kent Ridge for the university's 120th academic year"
+    first_seen: 2026-08-03
+    digest: sentiment-on-nus-2026-Aug-03.html
+    urls:
+      - https://osa.nus.edu.sg/freshman-orientation-programme/
+      - https://osa.nus.edu.sg/freshman-orientation-programme/orientation-journey/
+      - https://osa.nus.edu.sg/event/nussu-rag-day-2026/
   - fingerprint: nus-ntu-smu-hostel-fee-increase-ay2026-27
     title: "Hostel fees rise up to S$80 a month at NUS, NTU and SMU for the new academic year"
     first_seen: 2026-08-02
@@ -364,6 +399,13 @@ entries:
 # Knowledge Base — Sentiment on National University of Singapore
 
 Running log of everything already covered, newest first. Each bullet links the digest it appeared in.
+
+## 2026-Aug-03
+- **NUS and Universiti Malaya co-host an AI symposium at Capella Sentosa, with President Tharman and Sultan Nazrin in attendance** — 29 Jul gala/symposium showcased AI research in healthcare, robotics and molecular modelling alongside the same week's UM–NUS golf tournament; attended by Chancellor Tharman Shanmugaratnam, NUS President Tan Eng Chye and UM Chancellor Sultan Nazrin. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-03.html)
+- **Incoming Chief Justice Sushil Nair, an NUS Law alumnus, uses his first public speech to pledge a crackdown on bullying in the legal profession** — 29 Jul remarks to 300+ lawyers at the Legal Profession Symposium called harassment and bullying "an unacceptable red line"; first substantive policy statement since his CJ appointment was covered here on 27 Jul. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-03.html)
+- **NUS Law alumni mark the faculty's homecoming to Kent Ridge after nearly two decades at Bukit Timah** — 25 Jul reunion spanning the Class of 1961 to Class of 2026 unveiled a commemorative artwork at the faculty's new premises. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-03.html)
+- **NUS economists argue in the Straits Times that Singapore's electric-bus rollout shows carbon accounting is "only half the story"** — 30 Jul commentary by Assoc Profs Alberto Salvo and Timothy Wong and researcher Zhihao Han on why felt, tangible benefits (quieter rides, cleaner air) matter as much as carbon metrics in green-policy messaging. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-03.html)
+- **NUS Semester 1 Orientation opens, welcoming the Class of 2030 to Kent Ridge for the university's 120th academic year** — orientation runs 3–8 Aug under the theme "Get Ready, Get Connected, Get Going," setting up the 8 Aug NUSSU Rag Day showcase. [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-03.html)
 
 ## 2026-Aug-02
 - **Hostel fees rise up to S$80 a month at NUS, NTU and SMU for the new academic year** — non-air-conditioned single rooms at Eusoff, King Edward VII and Temasek Halls rose to S$165/week (+S$14); UTown Residence air-conditioned twin-sharing rose to S$275.50/person/week (+S$20.50), timed just ahead of AY2026/27 orientation (3–8 Aug). [digest](../sentiment-on-nus/sentiment-on-nus-2026-Aug-02.html)
